@@ -1,0 +1,23 @@
+/* Modelado de las 114 cajas, iniciando con un color de fondo en plata */
+
+.cajas {
+    width: 60px;
+    height: 60px;
+    background: silver;
+    border: none;
+    margin: 5px;
+    display: inline-block;
+}
+
+
+/* Modelado de los 3 botones */
+
+button {
+    width: 100px;
+    height: 45px;
+    color: white;
+    background: red;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+}
