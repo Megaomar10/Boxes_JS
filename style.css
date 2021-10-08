@@ -3,7 +3,7 @@
 .cajas {
     width: 60px;
     height: 60px;
-    background: silver;
+    background: black;
     border: none;
     margin: 5px;
     display: inline-block;
@@ -18,11 +18,11 @@
 /* Modelado de los 3 botones */
 
 button {
-    width: 100px;
-    height: 45px;
+    width: 90px;
+    height: 40px;
     color: white;
-    background: red;
+    background: purple;
     font-weight: bolder;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
 }
